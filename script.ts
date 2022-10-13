@@ -1,6 +1,39 @@
 
 
 
+//Exercicio 01//
+
+// let Largura = Number(prompt("Digite a largura da barra"))
+// let Altura = Number(prompt("Digite a altura da barra"))
+
+// Calcular(Largura, Altura)
+
+
+// function Calcular(largura: number, altura: number){
+//     let ContadorQuebras = 0
+//     const Total = largura * altura
+//     for (let index = 1; Total > index; index++) {
+//         Total / 2
+//         ContadorQuebras++
+//     }
+
+//     return console.log(ContadorQuebras)
+// }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 //Exercicio 02//
 
 // let Palavra = String(prompt("Digite uma palavra"))
